@@ -9,3 +9,5 @@ DISCLAIMER: Upon cleaning the code, an error was discovered in the way rates wer
 TLDR: paper and presentation results found in modeling.ipynb that has a small mistake in updating rates through the test set, fixed results found in updated-modeling.ipynb. Updated-modeling.ipynb should be used if further exploration is to be done with this project.
 
 Random-effects.R did not end up being used, but the code is attached here to view the process with that.
+
+TBR_project.R contains additional EDA relating to fastball rates by batting count and outs.
